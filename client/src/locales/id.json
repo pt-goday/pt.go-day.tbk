@@ -1,0 +1,143 @@
+{
+  "app": {
+    "name": "PT GO-DAY",
+    "subtitle": "Sistem Manajemen"
+  },
+  "auth": {
+    "login": "Masuk",
+    "logout": "Keluar",
+    "email": "Email",
+    "password": "Kata Sandi",
+    "signin": "Masuk",
+    "forgotPassword": "Lupa Kata Sandi?",
+    "invalidCredentials": "Email atau kata sandi tidak valid",
+    "loginFailed": "Gagal masuk, silakan coba lagi"
+  },
+  "navigation": {
+    "dashboard": "Dasbor",
+    "attendance": "Absensi",
+    "sales": "Penjualan",
+    "reports": "Laporan Kerja",
+    "targets": "Target",
+    "settings": "Pengaturan",
+    "profile": "Profil Saya"
+  },
+  "dashboard": {
+    "title": "Dasbor",
+    "todaySales": "Penjualan Hari Ini",
+    "monthlyTarget": "Target Bulanan",
+    "attendance": "Kehadiran",
+    "completedTasks": "Tugas Selesai",
+    "recentActivities": "Aktivitas Terbaru",
+    "salesStatistics": "Statistik Penjualan",
+    "dailyStats": "Statistik Harian",
+    "weeklyStats": "Statistik Mingguan",
+    "monthlyStats": "Statistik Bulanan"
+  },
+  "attendance": {
+    "title": "Absensi",
+    "checkIn": "Absen Masuk",
+    "checkOut": "Absen Pulang",
+    "history": "Riwayat Absensi",
+    "date": "Tanggal",
+    "time": "Waktu",
+    "status": "Status",
+    "note": "Catatan",
+    "location": "Lokasi",
+    "workingHours": "Jam Kerja",
+    "present": "Hadir",
+    "absent": "Tidak Hadir",
+    "late": "Terlambat"
+  },
+  "sales": {
+    "title": "Penjualan",
+    "newSale": "Penjualan Baru",
+    "history": "Riwayat Penjualan",
+    "customer": "Pelanggan",
+    "product": "Produk",
+    "price": "Harga",
+    "quantity": "Jumlah",
+    "total": "Total",
+    "status": "Status",
+    "date": "Tanggal",
+    "paymentMethod": "Metode Pembayaran",
+    "notes": "Catatan",
+    "export": "Ekspor ke Excel"
+  },
+  "reports": {
+    "title": "Laporan Kerja",
+    "newReport": "Laporan Baru",
+    "history": "Riwayat Laporan",
+    "type": "Jenis Laporan",
+    "description": "Deskripsi",
+    "date": "Tanggal",
+    "status": "Status",
+    "department": "Departemen",
+    "tasks": "Tugas",
+    "outcomes": "Hasil",
+    "challenges": "Tantangan",
+    "nextSteps": "Langkah Selanjutnya"
+  },
+  "profile": {
+    "title": "Profil Saya",
+    "personalInfo": "Informasi Pribadi",
+    "fullName": "Nama Lengkap",
+    "email": "Email",
+    "phone": "Nomor Telepon",
+    "address": "Alamat",
+    "updateProfile": "Perbarui Profil",
+    "changePassword": "Ubah Kata Sandi",
+    "role": "Peran",
+    "username": "Nama Pengguna",
+    "save": "Simpan",
+    "cancel": "Batal",
+    "profileUpdated": "Profil berhasil diperbarui",
+    "updateFailed": "Gagal memperbarui profil"
+  },
+  "common": {
+    "loading": "Memuat...",
+    "search": "Cari...",
+    "filter": "Filter",
+    "edit": "Edit",
+    "delete": "Hapus",
+    "save": "Simpan",
+    "cancel": "Batal",
+    "confirm": "Konfirmasi",
+    "submit": "Kirim",
+    "success": "Berhasil",
+    "error": "Kesalahan",
+    "warning": "Peringatan",
+    "info": "Informasi",
+    "noData": "Tidak ada data",
+    "actions": "Tindakan",
+    "export": "Ekspor",
+    "import": "Impor",
+    "refresh": "Muat Ulang"
+  },
+  "settings": {
+    "title": "Pengaturan",
+    "language": "Bahasa",
+    "theme": "Tema",
+    "darkMode": "Mode Gelap",
+    "lightMode": "Mode Terang",
+    "notifications": "Notifikasi",
+    "account": "Akun",
+    "security": "Keamanan",
+    "appearance": "Tampilan",
+    "save": "Simpan Pengaturan"
+  },
+  "time": {
+    "today": "Hari Ini",
+    "yesterday": "Kemarin",
+    "thisWeek": "Minggu Ini",
+    "lastWeek": "Minggu Lalu",
+    "thisMonth": "Bulan Ini",
+    "lastMonth": "Bulan Lalu",
+    "custom": "Kustom"
+  },
+  "languages": {
+    "id": "Bahasa Indonesia",
+    "en": "English",
+    "zh": "中文"
+  }
+}

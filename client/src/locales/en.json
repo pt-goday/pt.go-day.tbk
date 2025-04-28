@@ -1,0 +1,143 @@
+{
+  "app": {
+    "name": "PT GO-DAY",
+    "subtitle": "Management System"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "signin": "Sign In",
+    "forgotPassword": "Forgot Password?",
+    "invalidCredentials": "Invalid email or password",
+    "loginFailed": "Login failed, please try again"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "attendance": "Attendance",
+    "sales": "Sales",
+    "reports": "Work Reports",
+    "targets": "Targets",
+    "settings": "Settings",
+    "profile": "My Profile"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "todaySales": "Today's Sales",
+    "monthlyTarget": "Monthly Target",
+    "attendance": "Attendance",
+    "completedTasks": "Completed Tasks",
+    "recentActivities": "Recent Activities",
+    "salesStatistics": "Sales Statistics",
+    "dailyStats": "Daily Statistics",
+    "weeklyStats": "Weekly Statistics",
+    "monthlyStats": "Monthly Statistics"
+  },
+  "attendance": {
+    "title": "Attendance",
+    "checkIn": "Check In",
+    "checkOut": "Check Out",
+    "history": "Attendance History",
+    "date": "Date",
+    "time": "Time",
+    "status": "Status",
+    "note": "Note",
+    "location": "Location",
+    "workingHours": "Working Hours",
+    "present": "Present",
+    "absent": "Absent",
+    "late": "Late"
+  },
+  "sales": {
+    "title": "Sales",
+    "newSale": "New Sale",
+    "history": "Sales History",
+    "customer": "Customer",
+    "product": "Product",
+    "price": "Price",
+    "quantity": "Quantity",
+    "total": "Total",
+    "status": "Status",
+    "date": "Date",
+    "paymentMethod": "Payment Method",
+    "notes": "Notes",
+    "export": "Export to Excel"
+  },
+  "reports": {
+    "title": "Work Reports",
+    "newReport": "New Report",
+    "history": "Report History",
+    "type": "Report Type",
+    "description": "Description",
+    "date": "Date",
+    "status": "Status",
+    "department": "Department",
+    "tasks": "Tasks",
+    "outcomes": "Outcomes",
+    "challenges": "Challenges",
+    "nextSteps": "Next Steps"
+  },
+  "profile": {
+    "title": "My Profile",
+    "personalInfo": "Personal Information",
+    "fullName": "Full Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "address": "Address",
+    "updateProfile": "Update Profile",
+    "changePassword": "Change Password",
+    "role": "Role",
+    "username": "Username",
+    "save": "Save",
+    "cancel": "Cancel",
+    "profileUpdated": "Profile successfully updated",
+    "updateFailed": "Failed to update profile"
+  },
+  "common": {
+    "loading": "Loading...",
+    "search": "Search...",
+    "filter": "Filter",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "submit": "Submit",
+    "success": "Success",
+    "error": "Error",
+    "warning": "Warning",
+    "info": "Information",
+    "noData": "No data available",
+    "actions": "Actions",
+    "export": "Export",
+    "import": "Import",
+    "refresh": "Refresh"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode",
+    "notifications": "Notifications",
+    "account": "Account",
+    "security": "Security",
+    "appearance": "Appearance",
+    "save": "Save Settings"
+  },
+  "time": {
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "thisWeek": "This Week",
+    "lastWeek": "Last Week",
+    "thisMonth": "This Month",
+    "lastMonth": "Last Month",
+    "custom": "Custom"
+  },
+  "languages": {
+    "id": "Bahasa Indonesia",
+    "en": "English",
+    "zh": "中文"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "app": {
+    "name": "PT GO-DAY",
+    "subtitle": "管理系统"
+  },
+  "auth": {
+    "login": "登录",
+    "logout": "退出",
+    "email": "电子邮件",
+    "password": "密码",
+    "signin": "登录",
+    "forgotPassword": "忘记密码？",
+    "invalidCredentials": "电子邮件或密码无效",
+    "loginFailed": "登录失败，请重试"
+  },
+  "navigation": {
+    "dashboard": "仪表板",
+    "attendance": "考勤",
+    "sales": "销售",
+    "reports": "工作报告",
+    "targets": "目标",
+    "settings": "设置",
+    "profile": "我的资料"
+  },
+  "dashboard": {
+    "title": "仪表板",
+    "todaySales": "今日销售",
+    "monthlyTarget": "月度目标",
+    "attendance": "考勤",
+    "completedTasks": "已完成任务",
+    "recentActivities": "最近活动",
+    "salesStatistics": "销售统计",
+    "dailyStats": "日统计",
+    "weeklyStats": "周统计",
+    "monthlyStats": "月统计"
+  },
+  "attendance": {
+    "title": "考勤",
+    "checkIn": "签到",
+    "checkOut": "签退",
+    "history": "考勤历史",
+    "date": "日期",
+    "time": "时间",
+    "status": "状态",
+    "note": "备注",
+    "location": "位置",
+    "workingHours": "工作时间",
+    "present": "出勤",
+    "absent": "缺勤",
+    "late": "迟到"
+  },
+  "sales": {
+    "title": "销售",
+    "newSale": "新销售",
+    "history": "销售历史",
+    "customer": "客户",
+    "product": "产品",
+    "price": "价格",
+    "quantity": "数量",
+    "total": "总计",
+    "status": "状态",
+    "date": "日期",
+    "paymentMethod": "支付方式",
+    "notes": "备注",
+    "export": "导出到Excel"
+  },
+  "reports": {
+    "title": "工作报告",
+    "newReport": "新报告",
+    "history": "报告历史",
+    "type": "报告类型",
+    "description": "描述",
+    "date": "日期",
+    "status": "状态",
+    "department": "部门",
+    "tasks": "任务",
+    "outcomes": "结果",
+    "challenges": "挑战",
+    "nextSteps": "下一步"
+  },
+  "profile": {
+    "title": "我的资料",
+    "personalInfo": "个人信息",
+    "fullName": "全名",
+    "email": "电子邮件",
+    "phone": "电话号码",
+    "address": "地址",
+    "updateProfile": "更新资料",
+    "changePassword": "更改密码",
+    "role": "角色",
+    "username": "用户名",
+    "save": "保存",
+    "cancel": "取消",
+    "profileUpdated": "资料已成功更新",
+    "updateFailed": "更新资料失败"
+  },
+  "common": {
+    "loading": "加载中...",
+    "search": "搜索...",
+    "filter": "筛选",
+    "edit": "编辑",
+    "delete": "删除",
+    "save": "保存",
+    "cancel": "取消",
+    "confirm": "确认",
+    "submit": "提交",
+    "success": "成功",
+    "error": "错误",
+    "warning": "警告",
+    "info": "信息",
+    "noData": "没有可用数据",
+    "actions": "操作",
+    "export": "导出",
+    "import": "导入",
+    "refresh": "刷新"
+  },
+  "settings": {
+    "title": "设置",
+    "language": "语言",
+    "theme": "主题",
+    "darkMode": "暗黑模式",
+    "lightMode": "明亮模式",
+    "notifications": "通知",
+    "account": "账户",
+    "security": "安全",
+    "appearance": "外观",
+    "save": "保存设置"
+  },
+  "time": {
+    "today": "今天",
+    "yesterday": "昨天",
+    "thisWeek": "本周",
+    "lastWeek": "上周",
+    "thisMonth": "本月",
+    "lastMonth": "上月",
+    "custom": "自定义"
+  },
+  "languages": {
+    "id": "Bahasa Indonesia",
+    "en": "English",
+    "zh": "中文"
+  }
+}
